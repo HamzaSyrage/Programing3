@@ -1,0 +1,6 @@
+email
+user
+password
+user
+isAdmin
+false

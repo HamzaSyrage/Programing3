@@ -1,0 +1,18 @@
+user
+user
+meals
+pizza pizza pizza pizza 
+tip
+63.0
+price
+303.0
+total
+366.0
+isCash
+true
+isSafari
+true
+status
+holding
+time
+1737535350343

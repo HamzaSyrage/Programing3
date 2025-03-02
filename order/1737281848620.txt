@@ -1,0 +1,18 @@
+user
+user
+meals
+kadkn kadkn kadkn 
+tip
+0.0
+price
+33.0
+total
+33.0
+isCash
+false
+isSafari
+false
+status
+canceled
+time
+1737281848620

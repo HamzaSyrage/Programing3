@@ -1,0 +1,10 @@
+name
+pizza
+count
+0
+price
+60.0
+image
+pizza.jpg
+recipes
+pizza

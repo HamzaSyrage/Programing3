@@ -1,0 +1,6 @@
+email
+jiji.,.,,;,';,.;99-
+password
+12
+isAdmin
+false

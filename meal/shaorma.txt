@@ -1,0 +1,10 @@
+name
+shaorma
+count
+10
+price
+32.0
+image
+shaorma.jpg
+recipes
+this is a meal
